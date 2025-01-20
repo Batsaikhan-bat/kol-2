@@ -1,0 +1,19 @@
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\bin\Debug\Kolokwium nr2.exe.config
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\bin\Debug\Kolokwium nr2.exe
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\bin\Debug\Kolokwium nr2.pdb
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\Kolokwium nr2.csproj.AssemblyReference.cache
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\MainWindow.g.cs
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\App.g.cs
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\Kolokwium nr2_MarkupCompile.cache
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\Kolokwium nr2_MarkupCompile.lref
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\MainWindow.baml
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\Kolokwium nr2.g.resources
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\Kolokwium_nr2.Properties.Resources.resources
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\Kolokwium nr2.csproj.GenerateResource.cache
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\Kolokwium nr2.csproj.CoreCompileInputs.cache
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\Kolokwium nr2.exe
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\Kolokwium nr2.pdb
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\tsonh.g.cs
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\tsonh.baml
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\Dictionary1.baml
+C:\Users\48889\source\repos\Kolokwium nr2\Kolokwium nr2\obj\Debug\Kolokwium_nr2.Resource1.resources
